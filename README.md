@@ -1,1 +1,1 @@
-![示例页面截图](images/example_page.jpg)
+![示例页面截图](example_page.jpg)
